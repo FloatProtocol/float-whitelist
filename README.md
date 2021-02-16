@@ -14,7 +14,7 @@ As [proposed](https://snapshot.page/#/snapshot.floatprotocol.eth/proposal/QmR8iP
 
 This covers a total of 18,841 addresses; of which 13,477 are unique.
 
-This increases the whitelist by 64,939 addresses (+26%). 
+This increases the whitelist size from 51,462 to 64,939 addresses (+26%). 
 
 ## Governance Sources
 ```sh
