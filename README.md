@@ -2,6 +2,20 @@
 
 [Why a Democratic Launch](https://docs-float.gitbook.io/docs/democratic-launch/the-little-guy)
 
+## Whitelist Expansion
+
+As [proposed](https://snapshot.page/#/snapshot.floatprotocol.eth/proposal/QmR8iPguiXFD3XVpK4ioULknvUc3NwLLGnFQJTZ22RdE3V) we could expand the whitelist to include the results from Dune Analytics [Query #19689](https://explore.duneanalytics.com/queries/19689) which contains the:
+- delegators on Compound
+- voters on Yearn
+- voters on UMA
+- delegators on YAM
+- voters and escrowers on Curve
+- delegators and voters on Uniswap.
+
+This covers a total of 18,841 addresses; of which 13,477 are unique.
+
+This increases the whitelist size from 51,462 to 64,939 addresses (+26%). 
+
 ## Governance Sources
 ```sh
 # Timestamp
